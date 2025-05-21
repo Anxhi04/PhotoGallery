@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(0, 0, 0);
+    overflow: hidden;
+    margin-left: 0%;
+    margin-top: 60px;
+}
+h3{
+    color: white;
+    text-align: center;
+    display: block;
+    transform: scale(2);
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+img{
+    width: 23.4%;
+    height:275px;
+    padding-left: 10px;
+    padding-right: 10px;
+    filter: grayscale(100%);
+}
+div{
+    display: inline;
+}
+
